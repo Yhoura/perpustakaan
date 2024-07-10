@@ -2,3 +2,4 @@ streamlit
 openpyxl
 pandas
 streamlit-option-menu
+os
